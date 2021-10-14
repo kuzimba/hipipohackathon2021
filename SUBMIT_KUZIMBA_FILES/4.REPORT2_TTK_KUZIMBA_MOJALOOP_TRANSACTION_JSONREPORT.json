@@ -1,0 +1,1234 @@
+{
+  "inputValues": {
+    "fromIdType": "MSISDN",
+    "fromIdValue": "44123456789",
+    "fromFirstName": "Rodney",
+    "fromLastName": "Nkoba",
+    "fromDOB": "1984-01-01",
+    "note": "Tororo cement 2 bags",
+    "currency": "UGX",
+    "amount": "92000",
+    "homeTransactionId": "123ABC",
+    "fromFspId": "figmm",
+    "accept": "application/vnd.interoperability.parties+json;version=1.0",
+    "contentType": "application/vnd.interoperability.parties+json;version=1.0",
+    "toIdValue": "construction@kuzimba.com",
+    "toIdType": "BUSINESS",
+    "toFspId": "stanbic",
+    "acceptQuotes": "application/vnd.interoperability.quotes+json;version=1.0",
+    "contentTypeQuotes": "application/vnd.interoperability.quotes+json;version=1.0",
+    "acceptTransfers": "application/vnd.interoperability.transfers+json;version=1.0",
+    "contentTransfers": "application/vnd.interoperability.transfers+json;version=1.0",
+    "hub_operator": "NOT_APPLICABLE",
+    "payerfsp": "mtn",
+    "accountId": "6",
+    "payeefsp": "payeefsp",
+    "ilpPacket": "AQAAAAAAAADIEHByaXZhdGUucGF5ZWVmc3CCAiB7InRyYW5zYWN0aW9uSWQiOiIyZGY3NzRlMi1mMWRiLTRmZjctYTQ5NS0yZGRkMzdhZjdjMmMiLCJxdW90ZUlkIjoiMDNhNjA1NTAtNmYyZi00NTU2LThlMDQtMDcwM2UzOWI4N2ZmIiwicGF5ZWUiOnsicGFydHlJZEluZm8iOnsicGFydHlJZFR5cGUiOiJNU0lTRE4iLCJwYXJ0eUlkZW50aWZpZXIiOiIyNzcxMzgwMzkxMyIsImZzcElkIjoicGF5ZWVmc3AifSwicGVyc29uYWxJbmZvIjp7ImNvbXBsZXhOYW1lIjp7fX19LCJwYXllciI6eyJwYXJ0eUlkSW5mbyI6eyJwYXJ0eUlkVHlwZSI6Ik1TSVNETiIsInBhcnR5SWRlbnRpZmllciI6IjI3NzEzODAzOTExIiwiZnNwSWQiOiJwYXllcmZzcCJ9LCJwZXJzb25hbEluZm8iOnsiY29tcGxleE5hbWUiOnt9fX0sImFtb3VudCI6eyJjdXJyZW5jeSI6IlVTRCIsImFtb3VudCI6IjIwMCJ9LCJ0cmFuc2FjdGlvblR5cGUiOnsic2NlbmFyaW8iOiJERVBPU0lUIiwic3ViU2NlbmFyaW8iOiJERVBPU0lUIiwiaW5pdGlhdG9yIjoiUEFZRVIiLCJpbml0aWF0b3JUeXBlIjoiQ09OU1VNRVIiLCJyZWZ1bmRJbmZvIjp7fX19",
+    "condition": "HOr22-H3AfTDHrSkPjJtVPRdKouuMkDXTR4ejlQa8Ks",
+    "validFulfillment": "UNlJ98hZTY_dsw0cAqw4i_UN3v4utt7CZFB4yfLbVFA",
+    "validCondition": "GRzLaTP7DJ9t4P-a_BA0WA9wzzlsugf00-Tn6kESAfM",
+    "invalidFulfillment": "_3cco-YN5OGpRKVWV3n6x6uNpBTH9tYUdOYmHA",
+    "fspiopSignature": "{\"signature\":\"iU4GBXSfY8twZMj1zXX1CTe3LDO8Zvgui53icrriBxCUF_wltQmnjgWLWI4ZUEueVeOeTbDPBZazpBWYvBYpl5WJSUoXi14nVlangcsmu2vYkQUPmHtjOW-yb2ng6_aPfwd7oHLWrWzcsjTF-S4dW7GZRPHEbY_qCOhEwmmMOnE1FWF1OLvP0dM0r4y7FlnrZNhmuVIFhk_pMbEC44rtQmMFv4pm4EVGqmIm3eyXz0GkX8q_O1kGBoyIeV_P6RRcZ0nL6YUVMhPFSLJo6CIhL2zPm54Qdl2nVzDFWn_shVyV0Cl5vpcMJxJ--O_Zcbmpv6lxqDdygTC782Ob3CNMvg\\\",\\\"protectedHeader\\\":\\\"eyJhbGciOiJSUzI1NiIsIkZTUElPUC1VUkkiOiIvdHJhbnNmZXJzIiwiRlNQSU9QLUhUVFAtTWV0aG9kIjoiUE9TVCIsIkZTUElPUC1Tb3VyY2UiOiJPTUwiLCJGU1BJT1AtRGVzdGluYXRpb24iOiJNVE5Nb2JpbGVNb25leSIsIkRhdGUiOiIifQ\"}",
+    "HUB_OPERATOR_BEARER_TOKEN": "NOT_APPLICABLE",
+    "BASE_CENTRAL_LEDGER_ADMIN": "",
+    "HOST_ML_API_ADAPTER": "http://ml-api-adapter.local",
+    "HOST_CENTRAL_LEDGER": "http://central-ledger.local",
+    "HOST_QUOTING_SERVICE": "http://quoting-service.local",
+    "HOST_ACCOUNT_LOOKUP_SERVICE": "http://account-lookup-service.local",
+    "HOST_SIMULATOR": "http://moja-simulator.local",
+    "HOST_CENTRAL_SETTLEMENT": "http://central-settlement.local/v1",
+    "HOST_TRANSACTION_REQUESTS_SERVICE": "http://transaction-request-service.local",
+    "payerIdType": "MSISDN",
+    "payerIdentifier": "22507008181",
+    "payeeIdType": "MSISDN",
+    "payeeIdentifier": "22556999125"
+  },
+  "name": "multi",
+  "test_cases": [
+    {
+      "id": 1,
+      "name": "stanbic",
+      "requests": [
+        {
+          "request": {
+            "id": 1,
+            "description": "Get party information",
+            "apiVersion": {
+              "minorVersion": 0,
+              "majorVersion": 1,
+              "type": "fspiop",
+              "asynchronous": true
+            },
+            "operationPath": "/parties/{Type}/{ID}",
+            "method": "get",
+            "headers": {
+              "Accept": "application/vnd.interoperability.parties+json;version=1.0",
+              "Content-Type": "application/vnd.interoperability.parties+json;version=1.0",
+              "Date": "Thu, 14 Oct 2021 02:59:40 GMT",
+              "FSPIOP-Source": "figmm",
+              "traceparent": "00-aabbb4b034b2ab85ef4b16fb79d8885f-0123456789abcdef0-00"
+            },
+            "params": {
+              "Type": "BUSINESS",
+              "ID": "construction@kuzimba.com"
+            },
+            "tests": {
+              "assertions": [
+                {
+                  "id": 1,
+                  "description": "Response status to be 202",
+                  "exec": [
+                    "expect(response.status).to.equal(202)"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 2,
+                  "description": "Response statusText be Accepted",
+                  "exec": [
+                    "expect(response.statusText).to.equal('Accepted')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 3,
+                  "description": "Callback Content Length not 0",
+                  "exec": [
+                    "expect(callback.headers['Content-Length']).to.not.equal('0')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 4,
+                  "description": "Callback body should contain party",
+                  "exec": [
+                    "expect(callback.body).to.have.property('party')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 5,
+                  "description": "Request FSPIOP-Source same as inputs fromFspId",
+                  "exec": [
+                    "expect('figmm').to.equal('figmm')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 6,
+                  "description": "Callback FSPIOP-Destination same as request FSPIOP-Source",
+                  "exec": [
+                    "expect(callback.headers['fspiop-destination']).to.equal('figmm')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 7,
+                  "description": "Callback content-type to be parties",
+                  "exec": [
+                    "expect(callback.headers['content-type']).to.equal('application/vnd.interoperability.parties+json;version=1.0')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 8,
+                  "description": "Callback partyIdInfo (partyIdType, partyIdentifier)",
+                  "exec": [
+                    "expect(callback.body.party.partyIdInfo.partyIdType).to.equal('BUSINESS')",
+                    "expect(callback.body.party.partyIdInfo.partyIdentifier).to.equal('construction@kuzimba.com')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                }
+              ],
+              "passedAssertionsCount": 8
+            },
+            "status": {
+              "state": "finish",
+              "response": {
+                "status": 202,
+                "statusText": "Accepted",
+                "body": "",
+                "headers": {
+                  "content-length": "0",
+                  "connection": "close",
+                  "cache-control": "no-cache",
+                  "date": "Thu, 14 Oct 2021 02:55:03 GMT",
+                  "x-kong-upstream-latency": "82",
+                  "x-kong-proxy-latency": "1",
+                  "via": "kong/2.3.3"
+                }
+              },
+              "callback": {
+                "url": "put /parties/BUSINESS/construction@kuzimba.com",
+                "headers": {
+                  "host": "figmm-backend.sandbox.mojaloop.io",
+                  "connection": "keep-alive",
+                  "x-forwarded-for": "10.42.1.0, 10.1.2.203",
+                  "x-forwarded-proto": "http",
+                  "x-forwarded-host": "figmm-backend.sandbox.mojaloop.io",
+                  "x-forwarded-port": "80",
+                  "x-forwarded-path": "/parties/BUSINESS/construction@kuzimba.com",
+                  "x-real-ip": "10.1.2.203",
+                  "content-length": "257",
+                  "content-type": "application/vnd.interoperability.parties+json;version=1.0",
+                  "date": "Thu, 14 Oct 2021 02:55:04 GMT",
+                  "fspiop-source": "stanbic",
+                  "fspiop-destination": "figmm",
+                  "fspiop-http-method": "PUT",
+                  "fspiop-uri": "/parties/BUSINESS/construction@kuzimba.com",
+                  "fspiop-signature": "{\"signature\":\"rNvZudu7Khpz-tKBZT62uEXkJbHwtvbnju8Ny5UJEaNL1DTFpVoEqjh1YrnaBc_cnwjXaQkRiC2EuFB4G3LJI_SkR39RXIG97xYfhzZcDTW28A8wewMvrjZ806KND3gnWv2cD_XMB0rFglgTBbm_1Xk8x3lp2BxKEieAWFxOx1hJd1u226XpKCU5mG6Vdimc4LjeRJQxk4WVrD8SFiXP7ZwRg9IgdZ2zcUs9MwWB05lXpY-3Nkls97RuRDfyU49bpibUSznFLZlSB_UKP2ZJn3YP1UNHEDxCeHraCvDsur9OAISx9Bk-SUzgI9GbgUccM7TIqLgeXx9UO6Wk2bo2BA\",\"protectedHeader\":\"eyJhbGciOiJSUzI1NiIsIkZTUElPUC1VUkkiOiIvcGFydGllcy9CVVNJTkVTUy9jb25zdHJ1Y3Rpb25Aa3V6aW1iYS5jb20iLCJGU1BJT1AtSFRUUC1NZXRob2QiOiJQVVQiLCJGU1BJT1AtU291cmNlIjoic3RhbmJpYyIsIkZTUElPUC1EZXN0aW5hdGlvbiI6ImZpZ21tIiwiRGF0ZSI6IlRodSwgMTQgT2N0IDIwMjEgMDI6NTU6MDQgR01UIn0\"}",
+                  "traceid": "c36e762d-1cd8-4eec-ab0f-917c4ab04896",
+                  "user-agent": "axios/0.21.4"
+                },
+                "body": {
+                  "party": {
+                    "partyIdInfo": {
+                      "partyIdType": "BUSINESS",
+                      "partyIdentifier": "construction@kuzimba.com",
+                      "fspId": "stanbic"
+                    },
+                    "personalInfo": {
+                      "complexName": {
+                        "firstName": "Kuzimba",
+                        "middleName": "B",
+                        "lastName": "Construction"
+                      },
+                      "dateOfBirth": "1970-01-01"
+                    },
+                    "name": "Kuzimba"
+                  }
+                }
+              },
+              "requestSent": {
+                "id": 1,
+                "description": "Get party information",
+                "apiVersion": {
+                  "minorVersion": 0,
+                  "majorVersion": 1,
+                  "type": "fspiop",
+                  "asynchronous": true
+                },
+                "operationPath": "/parties/{Type}/{ID}",
+                "method": "get",
+                "headers": {
+                  "Accept": "application/vnd.interoperability.parties+json;version=1.0",
+                  "Content-Type": "application/vnd.interoperability.parties+json;version=1.0",
+                  "Date": "Thu, 14 Oct 2021 02:55:03 GMT",
+                  "FSPIOP-Source": "figmm",
+                  "traceparent": "00-aabbb4b034b2ab85ef4b16fb79d8d288-0123456789abcdef0-00"
+                },
+                "params": {
+                  "Type": "BUSINESS",
+                  "ID": "construction@kuzimba.com"
+                },
+                "tests": {
+                  "assertions": [
+                    {
+                      "id": 1,
+                      "description": "Response status to be 202",
+                      "exec": [
+                        "expect(response.status).to.equal(202)"
+                      ]
+                    },
+                    {
+                      "id": 2,
+                      "description": "Response statusText be Accepted",
+                      "exec": [
+                        "expect(response.statusText).to.equal('Accepted')"
+                      ]
+                    },
+                    {
+                      "id": 3,
+                      "description": "Callback Content Length not 0",
+                      "exec": [
+                        "expect(callback.headers['Content-Length']).to.not.equal('0')"
+                      ]
+                    },
+                    {
+                      "id": 4,
+                      "description": "Callback body should contain party",
+                      "exec": [
+                        "expect(callback.body).to.have.property('party')"
+                      ]
+                    },
+                    {
+                      "id": 5,
+                      "description": "Request FSPIOP-Source same as inputs fromFspId",
+                      "exec": [
+                        "expect('figmm').to.equal('figmm')"
+                      ]
+                    },
+                    {
+                      "id": 6,
+                      "description": "Callback FSPIOP-Destination same as request FSPIOP-Source",
+                      "exec": [
+                        "expect(callback.headers['fspiop-destination']).to.equal('figmm')"
+                      ]
+                    },
+                    {
+                      "id": 7,
+                      "description": "Callback content-type to be parties",
+                      "exec": [
+                        "expect(callback.headers['content-type']).to.equal('application/vnd.interoperability.parties+json;version=1.0')"
+                      ]
+                    },
+                    {
+                      "id": 8,
+                      "description": "Callback partyIdInfo (partyIdType, partyIdentifier)",
+                      "exec": [
+                        "expect(callback.body.party.partyIdInfo.partyIdType).to.equal('BUSINESS')",
+                        "expect(callback.body.party.partyIdInfo.partyIdentifier).to.equal('construction@kuzimba.com')"
+                      ]
+                    }
+                  ]
+                },
+                "path": "/parties/BUSINESS/construction@kuzimba.com"
+              },
+              "additionalInfo": {
+                "curlRequest": "curl 'http://beta.moja-lab.live/api/fspiop/parties/BUSINESS/construction@kuzimba.com' -H 'accept: application/vnd.interoperability.parties+json;version=1.0' -H 'content-type: application/vnd.interoperability.parties+json;version=1.0' -H 'date: Thu, 14 Oct 2021 02:55:03 GMT' -H 'fspiop-source: figmm' -H 'traceparent: 00-aabbb4b034b2ab85ef4b16fb79d8d288-0123456789abcdef0-00' -H 'user-agent: axios/0.19.2' --compressed",
+                "scriptsExecution": {}
+              },
+              "testResult": {
+                "results": {
+                  "1": {
+                    "status": "SUCCESS"
+                  },
+                  "2": {
+                    "status": "SUCCESS"
+                  },
+                  "3": {
+                    "status": "SUCCESS"
+                  },
+                  "4": {
+                    "status": "SUCCESS"
+                  },
+                  "5": {
+                    "status": "SUCCESS"
+                  },
+                  "6": {
+                    "status": "SUCCESS"
+                  },
+                  "7": {
+                    "status": "SUCCESS"
+                  },
+                  "8": {
+                    "status": "SUCCESS"
+                  }
+                },
+                "passedCount": 8
+              }
+            },
+            "path": "/parties/BUSINESS/construction@kuzimba.com"
+          },
+          "status": "SUCCESS",
+          "response": {
+            "status": 202,
+            "statusText": "Accepted",
+            "body": "",
+            "headers": {
+              "content-length": "0",
+              "connection": "close",
+              "cache-control": "no-cache",
+              "date": "Thu, 14 Oct 2021 02:59:40 GMT",
+              "x-kong-upstream-latency": "94",
+              "x-kong-proxy-latency": "0",
+              "via": "kong/2.3.3"
+            }
+          },
+          "callback": {
+            "url": "put /parties/BUSINESS/construction@kuzimba.com",
+            "headers": {
+              "host": "figmm-backend.sandbox.mojaloop.io",
+              "connection": "keep-alive",
+              "x-forwarded-for": "10.42.4.0, 10.1.2.203",
+              "x-forwarded-proto": "http",
+              "x-forwarded-host": "figmm-backend.sandbox.mojaloop.io",
+              "x-forwarded-port": "80",
+              "x-forwarded-path": "/parties/BUSINESS/construction@kuzimba.com",
+              "x-real-ip": "10.1.2.203",
+              "content-length": "257",
+              "content-type": "application/vnd.interoperability.parties+json;version=1.0",
+              "date": "Thu, 14 Oct 2021 02:59:40 GMT",
+              "fspiop-source": "stanbic",
+              "fspiop-destination": "figmm",
+              "fspiop-http-method": "PUT",
+              "fspiop-uri": "/parties/BUSINESS/construction@kuzimba.com",
+              "fspiop-signature": "{\"signature\":\"qOp7mP8--Z611Qx_wCAoINovmx-N3fMSe8tARJBNtAdiGgFBieyt5sNtwoe9pxtCUAK7s1ks14dfMpXih2ovpJ8Pgj6eTsaYUL2QdCzYZAvicK6oy77SSDOdFLZXDHL4JG3INJhVoH_4aBezMK6YRnrZLbOVQRDSYutw8Vs3J973aIymG9MOpyB0qwAPuw0HiMlBvy-D2HiSajK84Pvl8R_EAh22AQq-SBPOc4Tj_88ejhvOHgBeZ3UcNcSZHzvoERbSrlITLk-_vgF3vHOFImgB-t8EMpnXLNktnWigXSGvQ3WBJXS1JEkj-Gyb4jLoyiuoy-UWVsogVF5MWZLcag\",\"protectedHeader\":\"eyJhbGciOiJSUzI1NiIsIkZTUElPUC1VUkkiOiIvcGFydGllcy9CVVNJTkVTUy9jb25zdHJ1Y3Rpb25Aa3V6aW1iYS5jb20iLCJGU1BJT1AtSFRUUC1NZXRob2QiOiJQVVQiLCJGU1BJT1AtU291cmNlIjoic3RhbmJpYyIsIkZTUElPUC1EZXN0aW5hdGlvbiI6ImZpZ21tIiwiRGF0ZSI6IlRodSwgMTQgT2N0IDIwMjEgMDI6NTk6NDAgR01UIn0\"}",
+              "traceid": "b45436ea-8c4b-4422-869f-f96f23402710",
+              "user-agent": "axios/0.21.4"
+            },
+            "body": {
+              "party": {
+                "partyIdInfo": {
+                  "partyIdType": "BUSINESS",
+                  "partyIdentifier": "construction@kuzimba.com",
+                  "fspId": "stanbic"
+                },
+                "personalInfo": {
+                  "complexName": {
+                    "firstName": "Kuzimba",
+                    "middleName": "B",
+                    "lastName": "Construction"
+                  },
+                  "dateOfBirth": "1970-01-01"
+                },
+                "name": "Kuzimba"
+              }
+            }
+          },
+          "additionalInfo": {
+            "curlRequest": "curl 'http://beta.moja-lab.live/api/fspiop/parties/BUSINESS/construction@kuzimba.com' -H 'accept: application/vnd.interoperability.parties+json;version=1.0' -H 'content-type: application/vnd.interoperability.parties+json;version=1.0' -H 'date: Thu, 14 Oct 2021 02:59:40 GMT' -H 'fspiop-source: figmm' -H 'traceparent: 00-aabbb4b034b2ab85ef4b16fb79d8885f-0123456789abcdef0-00' -H 'user-agent: axios/0.19.2' --compressed"
+          }
+        },
+        {
+          "request": {
+            "id": 2,
+            "description": "Send quote",
+            "apiVersion": {
+              "minorVersion": 0,
+              "majorVersion": 1,
+              "type": "fspiop",
+              "asynchronous": true
+            },
+            "operationPath": "/quotes",
+            "method": "post",
+            "headers": {
+              "Accept": "application/vnd.interoperability.quotes+json;version=1.0",
+              "Content-Type": "application/vnd.interoperability.quotes+json;version=1.0",
+              "Date": "Thu, 14 Oct 2021 02:59:40 GMT",
+              "FSPIOP-Source": "figmm",
+              "FSPIOP-Destination": "stanbic",
+              "traceparent": "00-aabbb4b034b2ab85ef4b16fb79d8885f-0123456789abcdef0-00"
+            },
+            "body": {
+              "quoteId": "3a4579b8-457d-4e49-bb33-1475a7a74bf0",
+              "transactionId": "c28ce9d4-52e9-4dca-95d7-558680425124",
+              "payer": {
+                "partyIdInfo": {
+                  "partyIdType": "MSISDN",
+                  "partyIdentifier": "44123456789",
+                  "fspId": "figmm"
+                },
+                "personalInfo": {
+                  "complexName": {
+                    "firstName": "Rodney",
+                    "lastName": "Nkoba"
+                  },
+                  "dateOfBirth": "1984-01-01"
+                }
+              },
+              "payee": {
+                "partyIdInfo": {
+                  "partyIdType": "BUSINESS",
+                  "partyIdentifier": "construction@kuzimba.com",
+                  "fspId": "stanbic"
+                }
+              },
+              "amountType": "SEND",
+              "amount": {
+                "amount": "92000",
+                "currency": "UGX"
+              },
+              "transactionType": {
+                "scenario": "TRANSFER",
+                "initiator": "PAYER",
+                "initiatorType": "CONSUMER"
+              },
+              "note": "Tororo cement 2 bags"
+            },
+            "tests": {
+              "assertions": [
+                {
+                  "id": 1,
+                  "description": "Response status to be 202",
+                  "exec": [
+                    "expect(response.status).to.equal(202)"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 2,
+                  "description": "Response statusText be Accepted",
+                  "exec": [
+                    "expect(response.statusText).to.equal('Accepted')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 3,
+                  "description": "Callback Content Length not 0",
+                  "exec": [
+                    "expect(callback.headers['Content-Length']).to.not.equal('0')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 4,
+                  "description": "Callback FSP Destination equal to request FSP Source",
+                  "exec": [
+                    "expect(callback.headers['fspiop-destination']).to.equal('figmm')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 5,
+                  "description": "Callback body should contain transferAmount",
+                  "exec": [
+                    "expect(callback.body).to.have.property('transferAmount')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 6,
+                  "description": "Callback transferAmount (amount & currency)to match the request",
+                  "exec": [
+                    "expect(callback.body.transferAmount.amount).to.equal('92000')",
+                    "expect(callback.body.transferAmount.currency).to.equal('UGX')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 7,
+                  "description": "Callback content-type to be quotes",
+                  "exec": [
+                    "expect(callback.headers['content-type']).to.equal('application/vnd.interoperability.quotes+json;version=1.0')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 8,
+                  "description": "Request amountType to be SEND",
+                  "exec": [
+                    "expect('SEND').to.equal('SEND')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 9,
+                  "description": "Request transactionType scenario to be TRANSFER",
+                  "exec": [
+                    "expect('TRANSFER').to.equal('TRANSFER')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 10,
+                  "description": "Request transactionType initiator to be PAYER",
+                  "exec": [
+                    "expect('PAYER').to.equal('PAYER')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 11,
+                  "description": "Request transactionType initiatorType to be CONSUMER",
+                  "exec": [
+                    "expect('CONSUMER').to.equal('CONSUMER')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                }
+              ],
+              "passedAssertionsCount": 11
+            },
+            "status": {
+              "state": "finish",
+              "response": {
+                "status": 202,
+                "statusText": "Accepted",
+                "body": "",
+                "headers": {
+                  "content-length": "0",
+                  "connection": "close",
+                  "cache-control": "no-cache",
+                  "date": "Thu, 14 Oct 2021 02:55:04 GMT",
+                  "x-kong-upstream-latency": "5",
+                  "x-kong-proxy-latency": "0",
+                  "via": "kong/2.3.3"
+                }
+              },
+              "callback": {
+                "url": "put /quotes/85c8f49d-bc26-49b9-b8d6-ca9d66e159b3",
+                "headers": {
+                  "host": "figmm-backend.sandbox.mojaloop.io",
+                  "connection": "keep-alive",
+                  "x-forwarded-for": "10.42.3.0",
+                  "x-forwarded-proto": "http",
+                  "x-forwarded-host": "figmm-backend.sandbox.mojaloop.io",
+                  "x-forwarded-port": "80",
+                  "x-forwarded-path": "/quotes/85c8f49d-bc26-49b9-b8d6-ca9d66e159b3",
+                  "x-real-ip": "10.42.3.0",
+                  "content-length": "1331",
+                  "content-type": "application/vnd.interoperability.quotes+json;version=1.0",
+                  "date": "Thu, 14 Oct 2021 02:55:04 GMT",
+                  "fspiop-source": "stanbic",
+                  "fspiop-destination": "figmm",
+                  "fspiop-http-method": "PUT",
+                  "fspiop-signature": "{\"signature\":\"SKz-c9r9OoHeEi0817uE1hS5c2vFJ02T8OM_vIJlDxZ0WcRkUjAYGz-64wMBG0gscMxCeXE54uUER2x0IgeZ5XeUFxbaZAK59LK5MmfV6IAkgVyeENUh1qsIiSf-OGJ-bgmKHFy32JRgVnjj5M4tOSvz4V6CcvhvBfPv31tPtIf1_Y8WQK7a8MWna8XNJPVkP0DQRJqDevmpn2B-znVcptxYVmk2QRteM1vZEson_GTaY0h82Q6TjU3L2TDagw0fyWheIGKCLa5PGvjuWm-zuJeChs-iR9arKV1M0IOvN1Wr8rlq0731uzp8s7vr8LOfT3NPAz-WM3A0BiJ4Fwe5mw\",\"protectedHeader\":\"eyJhbGciOiJSUzI1NiIsIkZTUElPUC1VUkkiOiIvcXVvdGVzLzg1YzhmNDlkLWJjMjYtNDliOS1iOGQ2LWNhOWQ2NmUxNTliMyIsIkZTUElPUC1IVFRQLU1ldGhvZCI6IlBVVCIsIkZTUElPUC1Tb3VyY2UiOiJzdGFuYmljIiwiRlNQSU9QLURlc3RpbmF0aW9uIjoiZmlnbW0iLCJEYXRlIjoiVGh1LCAxNCBPY3QgMjAyMSAwMjo1NTowNCBHTVQifQ\"}",
+                  "fspiop-uri": "/quotes/85c8f49d-bc26-49b9-b8d6-ca9d66e159b3",
+                  "traceparent": "00-6cc1999c7e88a5f7df817a1e00f0d0d5-63c022e773a7b79b-00",
+                  "tracestate": "mojaloop=eyJzcGFuSWQiOiI2M2MwMjJlNzczYTdiNzliIn0=",
+                  "user-agent": "axios/0.21.1"
+                },
+                "body": {
+                  "transferAmount": {
+                    "amount": "92000",
+                    "currency": "UGX"
+                  },
+                  "expiration": "2021-10-14T02:56:04.471Z",
+                  "ilpPacket": "AYIDFgAAAAAAAWdgK2cuc3RhbmJpYy5idXNpbmVzcy5jb25zdHJ1Y3Rpb25Aa3V6aW1iYS5jb22CAt5leUowY21GdWMyRmpkR2x2Ymtsa0lqb2lOR0prWVdSak1HUXROVGcwTWkwME16VTJMV0kzWVRZdFlUUXlObUpoTldZMllUazBJaXdpY1hWdmRHVkpaQ0k2SWpnMVl6aG1ORGxrTFdKak1qWXRORGxpT1MxaU9HUTJMV05oT1dRMk5tVXhOVGxpTXlJc0luQmhlV1ZsSWpwN0luQmhjblI1U1dSSmJtWnZJanA3SW5CaGNuUjVTV1JVZVhCbElqb2lRbFZUU1U1RlUxTWlMQ0p3WVhKMGVVbGtaVzUwYVdacFpYSWlPaUpqYjI1emRISjFZM1JwYjI1QWEzVjZhVzFpWVM1amIyMGlMQ0ptYzNCSlpDSTZJbk4wWVc1aWFXTWlmWDBzSW5CaGVXVnlJanA3SW5CaGNuUjVTV1JKYm1adklqcDdJbkJoY25SNVNXUlVlWEJsSWpvaVRWTkpVMFJPSWl3aWNHRnlkSGxKWkdWdWRHbG1hV1Z5SWpvaU5EUXhNak0wTlRZM09Ea2lMQ0ptYzNCSlpDSTZJbVpwWjIxdEluMHNJbkJsY25OdmJtRnNTVzVtYnlJNmV5SmpiMjF3YkdWNFRtRnRaU0k2ZXlKbWFYSnpkRTVoYldVaU9pSlNiMlJ1WlhraUxDSnNZWE4wVG1GdFpTSTZJazVyYjJKaEluMHNJbVJoZEdWUFprSnBjblJvSWpvaU1UazROQzB3TVMwd01TSjlmU3dpWVcxdmRXNTBJanA3SW1GdGIzVnVkQ0k2SWpreU1EQXdJaXdpWTNWeWNtVnVZM2tpT2lKVlIxZ2lmU3dpZEhKaGJuTmhZM1JwYjI1VWVYQmxJanA3SW5OalpXNWhjbWx2SWpvaVZGSkJUbE5HUlZJaUxDSnBibWwwYVdGMGIzSWlPaUpRUVZsRlVpSXNJbWx1YVhScFlYUnZjbFI1Y0dVaU9pSkRUMDVUVlUxRlVpSjlmUQA",
+                  "condition": "Oxfhv5MJYMMQS3kerETohORh4e0L9V-dlUfi1jjR7bs",
+                  "payeeFspFee": {
+                    "amount": "4600",
+                    "currency": "UGX"
+                  },
+                  "payeeFspCommission": {
+                    "amount": "4600",
+                    "currency": "UGX"
+                  }
+                }
+              },
+              "requestSent": {
+                "id": 2,
+                "description": "Send quote",
+                "apiVersion": {
+                  "minorVersion": 0,
+                  "majorVersion": 1,
+                  "type": "fspiop",
+                  "asynchronous": true
+                },
+                "operationPath": "/quotes",
+                "method": "post",
+                "headers": {
+                  "Accept": "application/vnd.interoperability.quotes+json;version=1.0",
+                  "Content-Type": "application/vnd.interoperability.quotes+json;version=1.0",
+                  "Date": "Thu, 14 Oct 2021 02:55:04 GMT",
+                  "FSPIOP-Source": "figmm",
+                  "FSPIOP-Destination": "stanbic",
+                  "traceparent": "00-aabbb4b034b2ab85ef4b16fb79d8d288-0123456789abcdef0-00"
+                },
+                "body": {
+                  "quoteId": "85c8f49d-bc26-49b9-b8d6-ca9d66e159b3",
+                  "transactionId": "4bdadc0d-5842-4356-b7a6-a426ba5f6a94",
+                  "payer": {
+                    "partyIdInfo": {
+                      "partyIdType": "MSISDN",
+                      "partyIdentifier": "44123456789",
+                      "fspId": "figmm"
+                    },
+                    "personalInfo": {
+                      "complexName": {
+                        "firstName": "Rodney",
+                        "lastName": "Nkoba"
+                      },
+                      "dateOfBirth": "1984-01-01"
+                    }
+                  },
+                  "payee": {
+                    "partyIdInfo": {
+                      "partyIdType": "BUSINESS",
+                      "partyIdentifier": "construction@kuzimba.com",
+                      "fspId": "stanbic"
+                    }
+                  },
+                  "amountType": "SEND",
+                  "amount": {
+                    "amount": "92000",
+                    "currency": "UGX"
+                  },
+                  "transactionType": {
+                    "scenario": "TRANSFER",
+                    "initiator": "PAYER",
+                    "initiatorType": "CONSUMER"
+                  },
+                  "note": "Tororo cement 2 bags"
+                },
+                "tests": {
+                  "assertions": [
+                    {
+                      "id": 1,
+                      "description": "Response status to be 202",
+                      "exec": [
+                        "expect(response.status).to.equal(202)"
+                      ]
+                    },
+                    {
+                      "id": 2,
+                      "description": "Response statusText be Accepted",
+                      "exec": [
+                        "expect(response.statusText).to.equal('Accepted')"
+                      ]
+                    },
+                    {
+                      "id": 3,
+                      "description": "Callback Content Length not 0",
+                      "exec": [
+                        "expect(callback.headers['Content-Length']).to.not.equal('0')"
+                      ]
+                    },
+                    {
+                      "id": 4,
+                      "description": "Callback FSP Destination equal to request FSP Source",
+                      "exec": [
+                        "expect(callback.headers['fspiop-destination']).to.equal('figmm')"
+                      ]
+                    },
+                    {
+                      "id": 5,
+                      "description": "Callback body should contain transferAmount",
+                      "exec": [
+                        "expect(callback.body).to.have.property('transferAmount')"
+                      ]
+                    },
+                    {
+                      "id": 6,
+                      "description": "Callback transferAmount (amount & currency)to match the request",
+                      "exec": [
+                        "expect(callback.body.transferAmount.amount).to.equal('92000')",
+                        "expect(callback.body.transferAmount.currency).to.equal('UGX')"
+                      ]
+                    },
+                    {
+                      "id": 7,
+                      "description": "Callback content-type to be quotes",
+                      "exec": [
+                        "expect(callback.headers['content-type']).to.equal('application/vnd.interoperability.quotes+json;version=1.0')"
+                      ]
+                    },
+                    {
+                      "id": 8,
+                      "description": "Request amountType to be SEND",
+                      "exec": [
+                        "expect('SEND').to.equal('SEND')"
+                      ]
+                    },
+                    {
+                      "id": 9,
+                      "description": "Request transactionType scenario to be TRANSFER",
+                      "exec": [
+                        "expect('TRANSFER').to.equal('TRANSFER')"
+                      ]
+                    },
+                    {
+                      "id": 10,
+                      "description": "Request transactionType initiator to be PAYER",
+                      "exec": [
+                        "expect('PAYER').to.equal('PAYER')"
+                      ]
+                    },
+                    {
+                      "id": 11,
+                      "description": "Request transactionType initiatorType to be CONSUMER",
+                      "exec": [
+                        "expect('CONSUMER').to.equal('CONSUMER')"
+                      ]
+                    }
+                  ]
+                },
+                "path": "/quotes"
+              },
+              "additionalInfo": {
+                "curlRequest": "curl 'http://beta.moja-lab.live/api/fspiop/quotes' -H 'content-type: application/vnd.interoperability.quotes+json;version=1.0' -H 'accept: application/vnd.interoperability.quotes+json;version=1.0' -H 'date: Thu, 14 Oct 2021 02:55:04 GMT' -H 'fspiop-source: figmm' -H 'fspiop-destination: stanbic' -H 'traceparent: 00-aabbb4b034b2ab85ef4b16fb79d8d288-0123456789abcdef0-00' -H 'user-agent: axios/0.19.2' --data-binary '{\"quoteId\":\"85c8f49d-bc26-49b9-b8d6-ca9d66e159b3\",\"transactionId\":\"4bdadc0d-5842-4356-b7a6-a426ba5f6a94\",\"payer\":{\"partyIdInfo\":{\"partyIdType\":\"MSISDN\",\"partyIdentifier\":\"44123456789\",\"fspId\":\"figmm\"},\"personalInfo\":{\"complexName\":{\"firstName\":\"Rodney\",\"lastName\":\"Nkoba\"},\"dateOfBirth\":\"1984-01-01\"}},\"payee\":{\"partyIdInfo\":{\"partyIdType\":\"BUSINESS\",\"partyIdentifier\":\"construction@kuzimba.com\",\"fspId\":\"stanbic\"}},\"amountType\":\"SEND\",\"amount\":{\"amount\":\"92000\",\"currency\":\"UGX\"},\"transactionType\":{\"scenario\":\"TRANSFER\",\"initiator\":\"PAYER\",\"initiatorType\":\"CONSUMER\"},\"note\":\"Tororo cement 2 bags\"}' --compressed",
+                "scriptsExecution": {}
+              },
+              "testResult": {
+                "results": {
+                  "1": {
+                    "status": "SUCCESS"
+                  },
+                  "2": {
+                    "status": "SUCCESS"
+                  },
+                  "3": {
+                    "status": "SUCCESS"
+                  },
+                  "4": {
+                    "status": "SUCCESS"
+                  },
+                  "5": {
+                    "status": "SUCCESS"
+                  },
+                  "6": {
+                    "status": "SUCCESS"
+                  },
+                  "7": {
+                    "status": "SUCCESS"
+                  },
+                  "8": {
+                    "status": "SUCCESS"
+                  },
+                  "9": {
+                    "status": "SUCCESS"
+                  },
+                  "10": {
+                    "status": "SUCCESS"
+                  },
+                  "11": {
+                    "status": "SUCCESS"
+                  }
+                },
+                "passedCount": 11
+              }
+            },
+            "path": "/quotes"
+          },
+          "status": "SUCCESS",
+          "response": {
+            "status": 202,
+            "statusText": "Accepted",
+            "body": "",
+            "headers": {
+              "content-length": "0",
+              "connection": "close",
+              "cache-control": "no-cache",
+              "date": "Thu, 14 Oct 2021 02:59:41 GMT",
+              "x-kong-upstream-latency": "5",
+              "x-kong-proxy-latency": "0",
+              "via": "kong/2.3.3"
+            }
+          },
+          "callback": {
+            "url": "put /quotes/3a4579b8-457d-4e49-bb33-1475a7a74bf0",
+            "headers": {
+              "host": "figmm-backend.sandbox.mojaloop.io",
+              "connection": "keep-alive",
+              "x-forwarded-for": "10.1.2.203",
+              "x-forwarded-proto": "http",
+              "x-forwarded-host": "figmm-backend.sandbox.mojaloop.io",
+              "x-forwarded-port": "80",
+              "x-forwarded-path": "/quotes/3a4579b8-457d-4e49-bb33-1475a7a74bf0",
+              "x-real-ip": "10.1.2.203",
+              "content-length": "1331",
+              "content-type": "application/vnd.interoperability.quotes+json;version=1.0",
+              "date": "Thu, 14 Oct 2021 02:59:41 GMT",
+              "fspiop-source": "stanbic",
+              "fspiop-destination": "figmm",
+              "fspiop-http-method": "PUT",
+              "fspiop-signature": "{\"signature\":\"j82bWHqcvUdix4U2pQDi28XSP0Z_nJN8Nt19AXRsRwTIjNqaSO78wVgRd7T5nhVDNpD_GWw0fnCN9csfLHp-vj-jlPpFRIxQM6cTNAH3MH9ZMMiXdr-tn8_iZIbAMkMsm7jpVPxKXjl-rC1lAEhh0KUL4P_Lbrwn60PqfHcOsGo7Ujek52kx_xgJbIUaOIHlk989UWMyGao40z1j63BrUAypRlnw-OUbzZZrTAMZbkKIU2T4Xg6w6WLMw3Pkxw3ij9KauaZZvxewhCLiyYb3vHmf6Tkw-nQtF2WIZSkQ7UM5hNuxchRCiN2vm7IXgwYrfScrRfuG-_oh41hDEm0hWA\",\"protectedHeader\":\"eyJhbGciOiJSUzI1NiIsIkZTUElPUC1VUkkiOiIvcXVvdGVzLzNhNDU3OWI4LTQ1N2QtNGU0OS1iYjMzLTE0NzVhN2E3NGJmMCIsIkZTUElPUC1IVFRQLU1ldGhvZCI6IlBVVCIsIkZTUElPUC1Tb3VyY2UiOiJzdGFuYmljIiwiRlNQSU9QLURlc3RpbmF0aW9uIjoiZmlnbW0iLCJEYXRlIjoiVGh1LCAxNCBPY3QgMjAyMSAwMjo1OTo0MSBHTVQifQ\"}",
+              "fspiop-uri": "/quotes/3a4579b8-457d-4e49-bb33-1475a7a74bf0",
+              "traceparent": "00-9978e66a74d4a004304311f9377c67e6-41b1684ea47db9e3-00",
+              "tracestate": "mojaloop=eyJzcGFuSWQiOiI0MWIxNjg0ZWE0N2RiOWUzIn0=",
+              "user-agent": "axios/0.21.1"
+            },
+            "body": {
+              "transferAmount": {
+                "amount": "92000",
+                "currency": "UGX"
+              },
+              "expiration": "2021-10-14T03:00:41.158Z",
+              "ilpPacket": "AYIDFgAAAAAAAWdgK2cuc3RhbmJpYy5idXNpbmVzcy5jb25zdHJ1Y3Rpb25Aa3V6aW1iYS5jb22CAt5leUowY21GdWMyRmpkR2x2Ymtsa0lqb2lZekk0WTJVNVpEUXROVEpsT1MwMFpHTmhMVGsxWkRjdE5UVTROamd3TkRJMU1USTBJaXdpY1hWdmRHVkpaQ0k2SWpOaE5EVTNPV0k0TFRRMU4yUXROR1UwT1MxaVlqTXpMVEUwTnpWaE4yRTNOR0ptTUNJc0luQmhlV1ZsSWpwN0luQmhjblI1U1dSSmJtWnZJanA3SW5CaGNuUjVTV1JVZVhCbElqb2lRbFZUU1U1RlUxTWlMQ0p3WVhKMGVVbGtaVzUwYVdacFpYSWlPaUpqYjI1emRISjFZM1JwYjI1QWEzVjZhVzFpWVM1amIyMGlMQ0ptYzNCSlpDSTZJbk4wWVc1aWFXTWlmWDBzSW5CaGVXVnlJanA3SW5CaGNuUjVTV1JKYm1adklqcDdJbkJoY25SNVNXUlVlWEJsSWpvaVRWTkpVMFJPSWl3aWNHRnlkSGxKWkdWdWRHbG1hV1Z5SWpvaU5EUXhNak0wTlRZM09Ea2lMQ0ptYzNCSlpDSTZJbVpwWjIxdEluMHNJbkJsY25OdmJtRnNTVzVtYnlJNmV5SmpiMjF3YkdWNFRtRnRaU0k2ZXlKbWFYSnpkRTVoYldVaU9pSlNiMlJ1WlhraUxDSnNZWE4wVG1GdFpTSTZJazVyYjJKaEluMHNJbVJoZEdWUFprSnBjblJvSWpvaU1UazROQzB3TVMwd01TSjlmU3dpWVcxdmRXNTBJanA3SW1GdGIzVnVkQ0k2SWpreU1EQXdJaXdpWTNWeWNtVnVZM2tpT2lKVlIxZ2lmU3dpZEhKaGJuTmhZM1JwYjI1VWVYQmxJanA3SW5OalpXNWhjbWx2SWpvaVZGSkJUbE5HUlZJaUxDSnBibWwwYVdGMGIzSWlPaUpRUVZsRlVpSXNJbWx1YVhScFlYUnZjbFI1Y0dVaU9pSkRUMDVUVlUxRlVpSjlmUQA",
+              "condition": "u2EBeQzkACtb5FJt0VgT5Eu31eTxoxZql1CtjM9yZoI",
+              "payeeFspFee": {
+                "amount": "4600",
+                "currency": "UGX"
+              },
+              "payeeFspCommission": {
+                "amount": "4600",
+                "currency": "UGX"
+              }
+            }
+          },
+          "additionalInfo": {
+            "curlRequest": "curl 'http://beta.moja-lab.live/api/fspiop/quotes' -H 'content-type: application/vnd.interoperability.quotes+json;version=1.0' -H 'accept: application/vnd.interoperability.quotes+json;version=1.0' -H 'date: Thu, 14 Oct 2021 02:59:40 GMT' -H 'fspiop-source: figmm' -H 'fspiop-destination: stanbic' -H 'traceparent: 00-aabbb4b034b2ab85ef4b16fb79d8885f-0123456789abcdef0-00' -H 'user-agent: axios/0.19.2' --data-binary '{\"quoteId\":\"3a4579b8-457d-4e49-bb33-1475a7a74bf0\",\"transactionId\":\"c28ce9d4-52e9-4dca-95d7-558680425124\",\"payer\":{\"partyIdInfo\":{\"partyIdType\":\"MSISDN\",\"partyIdentifier\":\"44123456789\",\"fspId\":\"figmm\"},\"personalInfo\":{\"complexName\":{\"firstName\":\"Rodney\",\"lastName\":\"Nkoba\"},\"dateOfBirth\":\"1984-01-01\"}},\"payee\":{\"partyIdInfo\":{\"partyIdType\":\"BUSINESS\",\"partyIdentifier\":\"construction@kuzimba.com\",\"fspId\":\"stanbic\"}},\"amountType\":\"SEND\",\"amount\":{\"amount\":\"92000\",\"currency\":\"UGX\"},\"transactionType\":{\"scenario\":\"TRANSFER\",\"initiator\":\"PAYER\",\"initiatorType\":\"CONSUMER\"},\"note\":\"Tororo cement 2 bags\"}' --compressed"
+          }
+        },
+        {
+          "request": {
+            "id": 3,
+            "description": "Send transfer",
+            "apiVersion": {
+              "minorVersion": 0,
+              "majorVersion": 1,
+              "type": "fspiop",
+              "asynchronous": true
+            },
+            "operationPath": "/transfers",
+            "method": "post",
+            "headers": {
+              "Accept": "application/vnd.interoperability.transfers+json;version=1.0",
+              "Content-Type": "application/vnd.interoperability.transfers+json;version=1.0",
+              "Date": "Thu, 14 Oct 2021 02:59:41 GMT",
+              "FSPIOP-Source": "figmm",
+              "traceparent": "00-aabbb4b034b2ab85ef4b16fb79d8885f-0123456789abcdef0-00"
+            },
+            "body": {
+              "transferId": "c28ce9d4-52e9-4dca-95d7-558680425124",
+              "payerFsp": "figmm",
+              "payeeFsp": "stanbic",
+              "amount": {
+                "amount": "92000",
+                "currency": "UGX"
+              },
+              "expiration": "2021-10-14T03:00:41.158Z",
+              "ilpPacket": "AYIDFgAAAAAAAWdgK2cuc3RhbmJpYy5idXNpbmVzcy5jb25zdHJ1Y3Rpb25Aa3V6aW1iYS5jb22CAt5leUowY21GdWMyRmpkR2x2Ymtsa0lqb2lZekk0WTJVNVpEUXROVEpsT1MwMFpHTmhMVGsxWkRjdE5UVTROamd3TkRJMU1USTBJaXdpY1hWdmRHVkpaQ0k2SWpOaE5EVTNPV0k0TFRRMU4yUXROR1UwT1MxaVlqTXpMVEUwTnpWaE4yRTNOR0ptTUNJc0luQmhlV1ZsSWpwN0luQmhjblI1U1dSSmJtWnZJanA3SW5CaGNuUjVTV1JVZVhCbElqb2lRbFZUU1U1RlUxTWlMQ0p3WVhKMGVVbGtaVzUwYVdacFpYSWlPaUpqYjI1emRISjFZM1JwYjI1QWEzVjZhVzFpWVM1amIyMGlMQ0ptYzNCSlpDSTZJbk4wWVc1aWFXTWlmWDBzSW5CaGVXVnlJanA3SW5CaGNuUjVTV1JKYm1adklqcDdJbkJoY25SNVNXUlVlWEJsSWpvaVRWTkpVMFJPSWl3aWNHRnlkSGxKWkdWdWRHbG1hV1Z5SWpvaU5EUXhNak0wTlRZM09Ea2lMQ0ptYzNCSlpDSTZJbVpwWjIxdEluMHNJbkJsY25OdmJtRnNTVzVtYnlJNmV5SmpiMjF3YkdWNFRtRnRaU0k2ZXlKbWFYSnpkRTVoYldVaU9pSlNiMlJ1WlhraUxDSnNZWE4wVG1GdFpTSTZJazVyYjJKaEluMHNJbVJoZEdWUFprSnBjblJvSWpvaU1UazROQzB3TVMwd01TSjlmU3dpWVcxdmRXNTBJanA3SW1GdGIzVnVkQ0k2SWpreU1EQXdJaXdpWTNWeWNtVnVZM2tpT2lKVlIxZ2lmU3dpZEhKaGJuTmhZM1JwYjI1VWVYQmxJanA3SW5OalpXNWhjbWx2SWpvaVZGSkJUbE5HUlZJaUxDSnBibWwwYVdGMGIzSWlPaUpRUVZsRlVpSXNJbWx1YVhScFlYUnZjbFI1Y0dVaU9pSkRUMDVUVlUxRlVpSjlmUQA",
+              "condition": "u2EBeQzkACtb5FJt0VgT5Eu31eTxoxZql1CtjM9yZoI"
+            },
+            "tests": {
+              "assertions": [
+                {
+                  "id": 1,
+                  "description": "Response status to be 202",
+                  "exec": [
+                    "expect(response.status).to.equal(202)"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 2,
+                  "description": "Response statusText be Accepted",
+                  "exec": [
+                    "expect(response.statusText).to.equal('Accepted')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 3,
+                  "description": "Callback Content Length not 0",
+                  "exec": [
+                    "expect(callback.headers['Content-Length']).to.not.equal('0')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 4,
+                  "description": "Callback FSP Destination equal to request FSP Source",
+                  "exec": [
+                    "expect(callback.headers['fspiop-destination']).to.equal('figmm')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 5,
+                  "description": "Callback transferState to be COMMITTED",
+                  "exec": [
+                    "expect(callback.body.transferState).to.equal('COMMITTED')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 7,
+                  "description": "Request transferId same as quote request transferId",
+                  "exec": [
+                    "expect('c28ce9d4-52e9-4dca-95d7-558680425124').to.equal('c28ce9d4-52e9-4dca-95d7-558680425124')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 8,
+                  "description": "Request transferAmount (amount & currency) to match quote request",
+                  "exec": [
+                    "expect('92000').to.equal('92000')",
+                    "expect('UGX').to.equal('UGX')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                },
+                {
+                  "id": 9,
+                  "description": "Request FSP source the same as quote callback FSP destination",
+                  "exec": [
+                    "expect('figmm').to.equal('figmm')"
+                  ],
+                  "resultStatus": {
+                    "status": "SUCCESS"
+                  }
+                }
+              ],
+              "passedAssertionsCount": 8
+            },
+            "status": {
+              "state": "finish",
+              "response": {
+                "status": 202,
+                "statusText": "Accepted",
+                "body": "",
+                "headers": {
+                  "content-length": "0",
+                  "connection": "close",
+                  "cache-control": "no-cache",
+                  "date": "Thu, 14 Oct 2021 02:55:04 GMT",
+                  "x-kong-upstream-latency": "8",
+                  "x-kong-proxy-latency": "0",
+                  "via": "kong/2.3.3"
+                }
+              },
+              "callback": {
+                "url": "put /transfers/4bdadc0d-5842-4356-b7a6-a426ba5f6a94",
+                "headers": {
+                  "host": "figmm-backend.sandbox.mojaloop.io",
+                  "connection": "keep-alive",
+                  "x-forwarded-for": "10.1.2.203, 10.42.0.0",
+                  "x-forwarded-proto": "http",
+                  "x-forwarded-host": "figmm-backend.sandbox.mojaloop.io",
+                  "x-forwarded-port": "80",
+                  "x-forwarded-path": "/transfers/4bdadc0d-5842-4356-b7a6-a426ba5f6a94",
+                  "x-real-ip": "10.42.0.0",
+                  "content-length": "136",
+                  "content-type": "application/vnd.interoperability.transfers+json;version=1.1",
+                  "date": "Thu, 14 Oct 2021 02:55:04 GMT",
+                  "fspiop-source": "stanbic",
+                  "fspiop-destination": "figmm",
+                  "fspiop-http-method": "PUT",
+                  "fspiop-uri": "/transfers/4bdadc0d-5842-4356-b7a6-a426ba5f6a94",
+                  "fspiop-signature": "{\"signature\":\"Z-WzMHpKEoCtnnEWuj0pQ_a2sM2B1VIDgskv4HaIfuLuigsKmya6ddjjL6n1WT6BAAc6tYRWiao6HZACa1sVQa1V2WSITfRPR3_hp9LQLT0mJ_JW-H8u502UhosA_0GLkbCifFy1-FE6a8J5amMMO7gccITk6X_dwSZZa1I-dj8Pi28TwJ7pUYIhFj22tEOSRx_57CJxvTzVGHkflq2pDB3OuOL2qEfpStBlwEda44RgL0EuDjnqq1hQWD6QWTYCYsX71iS-kys1dGe_zWvKiqIxWnm8PjhkSHu7i46K_2NBEWSERrM6d5NQzBJIRUIXfji0K-QsUsg5Qn-oi2-oVQ\",\"protectedHeader\":\"eyJhbGciOiJSUzI1NiIsIkZTUElPUC1VUkkiOiIvdHJhbnNmZXJzLzRiZGFkYzBkLTU4NDItNDM1Ni1iN2E2LWE0MjZiYTVmNmE5NCIsIkZTUElPUC1IVFRQLU1ldGhvZCI6IlBVVCIsIkZTUElPUC1Tb3VyY2UiOiJzdGFuYmljIiwiRlNQSU9QLURlc3RpbmF0aW9uIjoiZmlnbW0iLCJEYXRlIjoiVGh1LCAxNCBPY3QgMjAyMSAwMjo1NTowNCBHTVQifQ\"}",
+                  "traceparent": "00-6b542a2df476fb3c7752fdbef5b0ed79-81416d7b1ec90208-00",
+                  "tracestate": "mojaloop=eyJzcGFuSWQiOiI4MTQxNmQ3YjFlYzkwMjA4IiwidGltZUFwaUZ1bGZpbCI6IjE2MzQxODAxMDQ4MTMifQ==",
+                  "user-agent": "axios/0.21.1"
+                },
+                "body": {
+                  "completedTimestamp": "2021-10-14T02:55:04.806Z",
+                  "transferState": "COMMITTED",
+                  "fulfilment": "pzb7EWOfKpupDLALIwhtPN63jNlyveczyxbEaYVC0ws"
+                }
+              },
+              "requestSent": {
+                "id": 3,
+                "description": "Send transfer",
+                "apiVersion": {
+                  "minorVersion": 0,
+                  "majorVersion": 1,
+                  "type": "fspiop",
+                  "asynchronous": true
+                },
+                "operationPath": "/transfers",
+                "method": "post",
+                "headers": {
+                  "Accept": "application/vnd.interoperability.transfers+json;version=1.0",
+                  "Content-Type": "application/vnd.interoperability.transfers+json;version=1.0",
+                  "Date": "Thu, 14 Oct 2021 02:55:04 GMT",
+                  "FSPIOP-Source": "figmm",
+                  "traceparent": "00-aabbb4b034b2ab85ef4b16fb79d8d288-0123456789abcdef0-00"
+                },
+                "body": {
+                  "transferId": "4bdadc0d-5842-4356-b7a6-a426ba5f6a94",
+                  "payerFsp": "figmm",
+                  "payeeFsp": "stanbic",
+                  "amount": {
+                    "amount": "92000",
+                    "currency": "UGX"
+                  },
+                  "expiration": "2021-10-14T02:56:04.471Z",
+                  "ilpPacket": "AYIDFgAAAAAAAWdgK2cuc3RhbmJpYy5idXNpbmVzcy5jb25zdHJ1Y3Rpb25Aa3V6aW1iYS5jb22CAt5leUowY21GdWMyRmpkR2x2Ymtsa0lqb2lOR0prWVdSak1HUXROVGcwTWkwME16VTJMV0kzWVRZdFlUUXlObUpoTldZMllUazBJaXdpY1hWdmRHVkpaQ0k2SWpnMVl6aG1ORGxrTFdKak1qWXRORGxpT1MxaU9HUTJMV05oT1dRMk5tVXhOVGxpTXlJc0luQmhlV1ZsSWpwN0luQmhjblI1U1dSSmJtWnZJanA3SW5CaGNuUjVTV1JVZVhCbElqb2lRbFZUU1U1RlUxTWlMQ0p3WVhKMGVVbGtaVzUwYVdacFpYSWlPaUpqYjI1emRISjFZM1JwYjI1QWEzVjZhVzFpWVM1amIyMGlMQ0ptYzNCSlpDSTZJbk4wWVc1aWFXTWlmWDBzSW5CaGVXVnlJanA3SW5CaGNuUjVTV1JKYm1adklqcDdJbkJoY25SNVNXUlVlWEJsSWpvaVRWTkpVMFJPSWl3aWNHRnlkSGxKWkdWdWRHbG1hV1Z5SWpvaU5EUXhNak0wTlRZM09Ea2lMQ0ptYzNCSlpDSTZJbVpwWjIxdEluMHNJbkJsY25OdmJtRnNTVzVtYnlJNmV5SmpiMjF3YkdWNFRtRnRaU0k2ZXlKbWFYSnpkRTVoYldVaU9pSlNiMlJ1WlhraUxDSnNZWE4wVG1GdFpTSTZJazVyYjJKaEluMHNJbVJoZEdWUFprSnBjblJvSWpvaU1UazROQzB3TVMwd01TSjlmU3dpWVcxdmRXNTBJanA3SW1GdGIzVnVkQ0k2SWpreU1EQXdJaXdpWTNWeWNtVnVZM2tpT2lKVlIxZ2lmU3dpZEhKaGJuTmhZM1JwYjI1VWVYQmxJanA3SW5OalpXNWhjbWx2SWpvaVZGSkJUbE5HUlZJaUxDSnBibWwwYVdGMGIzSWlPaUpRUVZsRlVpSXNJbWx1YVhScFlYUnZjbFI1Y0dVaU9pSkRUMDVUVlUxRlVpSjlmUQA",
+                  "condition": "Oxfhv5MJYMMQS3kerETohORh4e0L9V-dlUfi1jjR7bs"
+                },
+                "tests": {
+                  "assertions": [
+                    {
+                      "id": 1,
+                      "description": "Response status to be 202",
+                      "exec": [
+                        "expect(response.status).to.equal(202)"
+                      ]
+                    },
+                    {
+                      "id": 2,
+                      "description": "Response statusText be Accepted",
+                      "exec": [
+                        "expect(response.statusText).to.equal('Accepted')"
+                      ]
+                    },
+                    {
+                      "id": 3,
+                      "description": "Callback Content Length not 0",
+                      "exec": [
+                        "expect(callback.headers['Content-Length']).to.not.equal('0')"
+                      ]
+                    },
+                    {
+                      "id": 4,
+                      "description": "Callback FSP Destination equal to request FSP Source",
+                      "exec": [
+                        "expect(callback.headers['fspiop-destination']).to.equal('figmm')"
+                      ]
+                    },
+                    {
+                      "id": 5,
+                      "description": "Callback transferState to be COMMITTED",
+                      "exec": [
+                        "expect(callback.body.transferState).to.equal('COMMITTED')"
+                      ]
+                    },
+                    {
+                      "id": 6,
+                      "description": "Callback content-type to be transfers",
+                      "exec": [
+                        "expect(callback.headers['content-type']).to.equal('application/vnd.interoperability.transfers+json;version=1.0')"
+                      ]
+                    },
+                    {
+                      "id": 7,
+                      "description": "Request transferId same as quote request transferId",
+                      "exec": [
+                        "expect('4bdadc0d-5842-4356-b7a6-a426ba5f6a94').to.equal('4bdadc0d-5842-4356-b7a6-a426ba5f6a94')"
+                      ]
+                    },
+                    {
+                      "id": 8,
+                      "description": "Request transferAmount (amount & currency) to match quote request",
+                      "exec": [
+                        "expect('92000').to.equal('92000')",
+                        "expect('UGX').to.equal('UGX')"
+                      ]
+                    },
+                    {
+                      "id": 9,
+                      "description": "Request FSP source the same as quote callback FSP destination",
+                      "exec": [
+                        "expect('figmm').to.equal('figmm')"
+                      ]
+                    }
+                  ]
+                },
+                "path": "/transfers"
+              },
+              "additionalInfo": {
+                "curlRequest": "curl 'http://beta.moja-lab.live/api/fspiop/transfers' -H 'content-type: application/vnd.interoperability.transfers+json;version=1.0' -H 'accept: application/vnd.interoperability.transfers+json;version=1.0' -H 'date: Thu, 14 Oct 2021 02:55:04 GMT' -H 'fspiop-source: figmm' -H 'traceparent: 00-aabbb4b034b2ab85ef4b16fb79d8d288-0123456789abcdef0-00' -H 'user-agent: axios/0.19.2' --data-binary '{\"transferId\":\"4bdadc0d-5842-4356-b7a6-a426ba5f6a94\",\"payerFsp\":\"figmm\",\"payeeFsp\":\"stanbic\",\"amount\":{\"amount\":\"92000\",\"currency\":\"UGX\"},\"expiration\":\"2021-10-14T02:56:04.471Z\",\"ilpPacket\":\"AYIDFgAAAAAAAWdgK2cuc3RhbmJpYy5idXNpbmVzcy5jb25zdHJ1Y3Rpb25Aa3V6aW1iYS5jb22CAt5leUowY21GdWMyRmpkR2x2Ymtsa0lqb2lOR0prWVdSak1HUXROVGcwTWkwME16VTJMV0kzWVRZdFlUUXlObUpoTldZMllUazBJaXdpY1hWdmRHVkpaQ0k2SWpnMVl6aG1ORGxrTFdKak1qWXRORGxpT1MxaU9HUTJMV05oT1dRMk5tVXhOVGxpTXlJc0luQmhlV1ZsSWpwN0luQmhjblI1U1dSSmJtWnZJanA3SW5CaGNuUjVTV1JVZVhCbElqb2lRbFZUU1U1RlUxTWlMQ0p3WVhKMGVVbGtaVzUwYVdacFpYSWlPaUpqYjI1emRISjFZM1JwYjI1QWEzVjZhVzFpWVM1amIyMGlMQ0ptYzNCSlpDSTZJbk4wWVc1aWFXTWlmWDBzSW5CaGVXVnlJanA3SW5CaGNuUjVTV1JKYm1adklqcDdJbkJoY25SNVNXUlVlWEJsSWpvaVRWTkpVMFJPSWl3aWNHRnlkSGxKWkdWdWRHbG1hV1Z5SWpvaU5EUXhNak0wTlRZM09Ea2lMQ0ptYzNCSlpDSTZJbVpwWjIxdEluMHNJbkJsY25OdmJtRnNTVzVtYnlJNmV5SmpiMjF3YkdWNFRtRnRaU0k2ZXlKbWFYSnpkRTVoYldVaU9pSlNiMlJ1WlhraUxDSnNZWE4wVG1GdFpTSTZJazVyYjJKaEluMHNJbVJoZEdWUFprSnBjblJvSWpvaU1UazROQzB3TVMwd01TSjlmU3dpWVcxdmRXNTBJanA3SW1GdGIzVnVkQ0k2SWpreU1EQXdJaXdpWTNWeWNtVnVZM2tpT2lKVlIxZ2lmU3dpZEhKaGJuTmhZM1JwYjI1VWVYQmxJanA3SW5OalpXNWhjbWx2SWpvaVZGSkJUbE5HUlZJaUxDSnBibWwwYVdGMGIzSWlPaUpRUVZsRlVpSXNJbWx1YVhScFlYUnZjbFI1Y0dVaU9pSkRUMDVUVlUxRlVpSjlmUQA\",\"condition\":\"Oxfhv5MJYMMQS3kerETohORh4e0L9V-dlUfi1jjR7bs\"}' --compressed",
+                "scriptsExecution": {}
+              },
+              "testResult": {
+                "results": {
+                  "1": {
+                    "status": "SUCCESS"
+                  },
+                  "2": {
+                    "status": "SUCCESS"
+                  },
+                  "3": {
+                    "status": "SUCCESS"
+                  },
+                  "4": {
+                    "status": "SUCCESS"
+                  },
+                  "5": {
+                    "status": "SUCCESS"
+                  },
+                  "6": {
+                    "status": "FAILED",
+                    "message": "expected 'application/vnd.interoperability.transfers+json;version=1.1' to equal 'application/vnd.interoperability.transfers+json;version=1.0'"
+                  },
+                  "7": {
+                    "status": "SUCCESS"
+                  },
+                  "8": {
+                    "status": "SUCCESS"
+                  },
+                  "9": {
+                    "status": "SUCCESS"
+                  }
+                },
+                "passedCount": 8
+              }
+            },
+            "path": "/transfers"
+          },
+          "status": "SUCCESS",
+          "response": {
+            "status": 202,
+            "statusText": "Accepted",
+            "body": "",
+            "headers": {
+              "content-length": "0",
+              "connection": "close",
+              "cache-control": "no-cache",
+              "date": "Thu, 14 Oct 2021 02:59:41 GMT",
+              "x-kong-upstream-latency": "5",
+              "x-kong-proxy-latency": "1",
+              "via": "kong/2.3.3"
+            }
+          },
+          "callback": {
+            "url": "put /transfers/c28ce9d4-52e9-4dca-95d7-558680425124",
+            "headers": {
+              "host": "figmm-backend.sandbox.mojaloop.io",
+              "connection": "keep-alive",
+              "x-forwarded-for": "10.42.4.0, 10.42.3.0",
+              "x-forwarded-proto": "http",
+              "x-forwarded-host": "figmm-backend.sandbox.mojaloop.io",
+              "x-forwarded-port": "80",
+              "x-forwarded-path": "/transfers/c28ce9d4-52e9-4dca-95d7-558680425124",
+              "x-real-ip": "10.42.3.0",
+              "content-length": "136",
+              "content-type": "application/vnd.interoperability.transfers+json;version=1.1",
+              "date": "Thu, 14 Oct 2021 02:59:41 GMT",
+              "fspiop-source": "stanbic",
+              "fspiop-destination": "figmm",
+              "fspiop-http-method": "PUT",
+              "fspiop-uri": "/transfers/c28ce9d4-52e9-4dca-95d7-558680425124",
+              "fspiop-signature": "{\"signature\":\"h1mwyQ-8i4IlWAVnmFN6lwoGQcI-gH8zqpCM0C4L_eKg2JJsPEjojnxDN0jQW5mGKXaXvP9QNdGN03stWPEd8mhiYRVtoZAQT5QeYzVIUflwHvAJJlF1d2qh4GWrCuNUO8GRmao_3NXJWxFSxeQhvjjaPdvzQSs0y-waItiKPXIGIcCsIczYr_v5sYkCV7UuI3z6ihpJzSGW4ukl8VTEDBlqZCkVr8BF5NqR7kz2bAxPQ59ebfEThTlqgFDrtd_EjLMge5-9EjJqnqgJp-mTJrQkjQHTKOo54OzOBMPEI7W0IahPpit87jWJLyi4opNdpJl40EHVKZyxPf1nBi0_lQ\",\"protectedHeader\":\"eyJhbGciOiJSUzI1NiIsIkZTUElPUC1VUkkiOiIvdHJhbnNmZXJzL2MyOGNlOWQ0LTUyZTktNGRjYS05NWQ3LTU1ODY4MDQyNTEyNCIsIkZTUElPUC1IVFRQLU1ldGhvZCI6IlBVVCIsIkZTUElPUC1Tb3VyY2UiOiJzdGFuYmljIiwiRlNQSU9QLURlc3RpbmF0aW9uIjoiZmlnbW0iLCJEYXRlIjoiVGh1LCAxNCBPY3QgMjAyMSAwMjo1OTo0MSBHTVQifQ\"}",
+              "traceparent": "00-526a05275404857b10d1f6fdece304ac-82a2d1a77336fa5a-00",
+              "tracestate": "mojaloop=eyJzcGFuSWQiOiI4MmEyZDFhNzczMzZmYTVhIiwidGltZUFwaUZ1bGZpbCI6IjE2MzQxODAzODE0NTAifQ==",
+              "user-agent": "axios/0.21.1"
+            },
+            "body": {
+              "completedTimestamp": "2021-10-14T02:59:41.441Z",
+              "transferState": "COMMITTED",
+              "fulfilment": "wfdfAn1_4LN53zS_oosoVuXOvCRY-OMIb_LCjQv9YIQ"
+            }
+          },
+          "additionalInfo": {
+            "curlRequest": "curl 'http://beta.moja-lab.live/api/fspiop/transfers' -H 'content-type: application/vnd.interoperability.transfers+json;version=1.0' -H 'accept: application/vnd.interoperability.transfers+json;version=1.0' -H 'date: Thu, 14 Oct 2021 02:59:41 GMT' -H 'fspiop-source: figmm' -H 'traceparent: 00-aabbb4b034b2ab85ef4b16fb79d8885f-0123456789abcdef0-00' -H 'user-agent: axios/0.19.2' --data-binary '{\"transferId\":\"c28ce9d4-52e9-4dca-95d7-558680425124\",\"payerFsp\":\"figmm\",\"payeeFsp\":\"stanbic\",\"amount\":{\"amount\":\"92000\",\"currency\":\"UGX\"},\"expiration\":\"2021-10-14T03:00:41.158Z\",\"ilpPacket\":\"AYIDFgAAAAAAAWdgK2cuc3RhbmJpYy5idXNpbmVzcy5jb25zdHJ1Y3Rpb25Aa3V6aW1iYS5jb22CAt5leUowY21GdWMyRmpkR2x2Ymtsa0lqb2lZekk0WTJVNVpEUXROVEpsT1MwMFpHTmhMVGsxWkRjdE5UVTROamd3TkRJMU1USTBJaXdpY1hWdmRHVkpaQ0k2SWpOaE5EVTNPV0k0TFRRMU4yUXROR1UwT1MxaVlqTXpMVEUwTnpWaE4yRTNOR0ptTUNJc0luQmhlV1ZsSWpwN0luQmhjblI1U1dSSmJtWnZJanA3SW5CaGNuUjVTV1JVZVhCbElqb2lRbFZUU1U1RlUxTWlMQ0p3WVhKMGVVbGtaVzUwYVdacFpYSWlPaUpqYjI1emRISjFZM1JwYjI1QWEzVjZhVzFpWVM1amIyMGlMQ0ptYzNCSlpDSTZJbk4wWVc1aWFXTWlmWDBzSW5CaGVXVnlJanA3SW5CaGNuUjVTV1JKYm1adklqcDdJbkJoY25SNVNXUlVlWEJsSWpvaVRWTkpVMFJPSWl3aWNHRnlkSGxKWkdWdWRHbG1hV1Z5SWpvaU5EUXhNak0wTlRZM09Ea2lMQ0ptYzNCSlpDSTZJbVpwWjIxdEluMHNJbkJsY25OdmJtRnNTVzVtYnlJNmV5SmpiMjF3YkdWNFRtRnRaU0k2ZXlKbWFYSnpkRTVoYldVaU9pSlNiMlJ1WlhraUxDSnNZWE4wVG1GdFpTSTZJazVyYjJKaEluMHNJbVJoZEdWUFprSnBjblJvSWpvaU1UazROQzB3TVMwd01TSjlmU3dpWVcxdmRXNTBJanA3SW1GdGIzVnVkQ0k2SWpreU1EQXdJaXdpWTNWeWNtVnVZM2tpT2lKVlIxZ2lmU3dpZEhKaGJuTmhZM1JwYjI1VWVYQmxJanA3SW5OalpXNWhjbWx2SWpvaVZGSkJUbE5HUlZJaUxDSnBibWwwYVdGMGIzSWlPaUpRUVZsRlVpSXNJbWx1YVhScFlYUnZjbFI1Y0dVaU9pSkRUMDVUVlUxRlVpSjlmUQA\",\"condition\":\"u2EBeQzkACtb5FJt0VgT5Eu31eTxoxZql1CtjM9yZoI\"}' --compressed"
+          }
+        }
+      ]
+    }
+  ],
+  "runtimeInformation": {
+    "completedTimeISO": "2021-10-14T02:59:41.507Z",
+    "startedTime": "Thu, 14 Oct 2021 02:59:40 GMT",
+    "completedTime": "Thu, 14 Oct 2021 02:59:41 GMT",
+    "runDurationMs": 1148,
+    "avgResponseTime": "NA",
+    "totalAssertions": 27,
+    "totalPassedAssertions": 27
+  }
+}
